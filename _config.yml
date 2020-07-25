@@ -16,12 +16,11 @@
 title: "Unlocked.Today"
 email: "yourtechaddict@gmail.com"
 description: "Unlocking fresh experiences today. Coming today, welcoming tomorrow, leaving yesterday."
-github_username: username
-minimal_mistakes_skin: air
-search: true
+minimal_mistakes_skin: "dark"
+search: "true"
 
 # Build settings
-markdown: kramdown
+markdown: "kramdown"
 #remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
