@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Unlocked Today your day"
-email:
+email: "yourtechaddict@gmail.com"
 description: "Unlocking fresh experiences today. Coming today, welcoming tomorrow, leaving yesterday."
 twitter_username: username
 github_username: username
@@ -23,7 +23,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
