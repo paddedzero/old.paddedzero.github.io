@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Unlocked Today your day
+title: "Unlocked Today your day"
 email:
 description: "Unlocking fresh experiences today. Coming today, welcoming tomorrow, leaving yesterday."
 twitter_username: username
