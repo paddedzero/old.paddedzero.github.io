@@ -17,7 +17,7 @@ title: "Unlocked.Today"
 email: "yourtechaddict@gmail.com"
 description: "Unlocking fresh experiences today. Coming today, welcoming tomorrow, leaving yesterday."
 minimal_mistakes_skin: "dark"
-search: "true"
+search: true
 
 # Build settings
 markdown: "kramdown"
